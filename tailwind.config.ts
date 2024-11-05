@@ -11,9 +11,12 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        accent1: "var(--accent1)",
+        accent2: "var(--accent2)",
       },
     },
   },
   plugins: [],
 };
+
 export default config;

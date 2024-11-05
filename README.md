@@ -1,8 +1,21 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Firebase Authentication & Storage Demo
+
+A simple demonstration of Firebase Authentication and Firestore Storage using Next.js and TypeScript.
+
+Created by [Jayson Dasher](https://github.com/jaysondasher)
+
+## Features
+
+- User Authentication (Sign up, Sign in, Sign out)
+- User Profile Management
+- Firestore Data Storage
+- Dark Mode Support
+- Responsive Design
 
 ## Getting Started
 
-First, run the development server:
+1. Clone the repository
+2. Install dependencies from the root directory:
 
 ```bash
 npm run dev
